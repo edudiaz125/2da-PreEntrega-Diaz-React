@@ -1,0 +1,149 @@
+[
+  {
+    "id": "v1",
+    "imagen": "../Productos/001.jpg",
+    "nombre": "Fender California",
+    "descripcion": "Guitarra Electrica Fender Tribute Prm",
+    "categoria": "guitarras",
+    "precio": 1340000 ,
+    "stock": 10
+  },
+  {
+    "id": "v2",
+    "imagen": "../Productos/002.jpg",
+    "nombre": "Gibson Special Rck",
+    "descripcion": "Guitarra Electrica Gibson Special",
+    "categoria": "guitarras",
+    "precio": 2530000,
+    "stock": 7
+  },
+  {
+    "id": "v3",
+    "imagen": "../Productos/003.jpg",
+    "nombre": "Yamaha C-70",
+    "descripcion": "Guitarra Criolla Yamaha",
+    "categoria": "guitarras",
+    "precio": 380000,
+    "stock": 5
+  },
+  {
+    "id": "v4",
+    "imagen": "../Productos/004.jpg",
+    "nombre": "Gibson Les Paul G-340",
+    "descripcion": "Gibson Les Paul First",
+    "categoria": "guitarras",
+    "precio": 2385000,
+    "stock": 11
+  },
+  {
+    "id": "v5",
+    "imagen": "../Productos/005.jpg",
+    "nombre": "Gibson ACE G-260",
+    "descripcion": "Guitarra Acustica Gibson",
+    "categoria": "guitarras",
+    "precio": 1340000,
+    "stock": 2
+  },
+  {
+    "id": "v6",
+    "imagen": "../Productos/006.jpg",
+    "nombre": "Gibson Electric Wizard",
+    "descripcion": "Gibson Les Paul Delux",
+    "categoria": "guitarras",
+    "precio": 3252000,
+    "stock": 11
+  },
+  {
+    "id": "v7",
+    "imagen": "../Productos/007.jpg",
+    "nombre": "Godin Multitac ACS",
+    "descripcion": "Guitarra Godin ACS",
+    "categoria": "guitarras",
+    "precio": 2920000,
+    "stock": 4
+  },
+  {
+    "id": "v8",
+    "imagen": "../Productos/008.jpg",
+    "nombre": "Ibanez Sound Gear",
+    "descripcion": "Bajo Ibanez SD",
+    "categoria": "bajos",
+    "precio": 1120000,
+    "stock": 6
+  },
+  {
+    "id": "v9",
+    "imagen": "../Productos/009.jpg",
+    "nombre": "Yamaha GD 460 Metallica",
+    "descripcion": "Bajo Yamaha GD460",
+    "categoria": "bajos",
+    "precio": 1509900,
+    "stock": 10
+  },
+  {
+    "id": "v10",
+    "imagen": "../Productos/010.jpg",
+    "nombre": "Epiphone Viola Bass 4C",
+    "descripcion": "Bajo Epiphone Viola Bass",
+    "categoria": "bajos",
+    "precio": 1430900,
+    "stock": 3
+  },
+  {
+    "id": "v11",
+    "imagen": "../Productos/011.jpg",
+    "nombre": "Yamaha Ulver",
+    "descripcion": "Bateria Yamaha norwegian opera",
+    "categoria": "percusion",
+    "precio": 3545000,
+    "stock": 3
+  },
+  {
+    "id": "v12",
+    "imagen": "../Productos/012.jpg",
+    "nombre": "Grestch Catalina",
+    "descripcion": "Bateria Grestch 1994",
+    "categoria": "percusion",
+    "precio": 2630000,
+    "stock": 7
+  },
+  {
+    "id": "v13",
+    "imagen": "../Productos/013.jpg",
+    "nombre": "Bathory Drum Gear",
+    "descripcion": "Bateria Electronica Bathory",
+    "categoria": "percusion",
+    "precio": 1908000,
+    "stock": 13
+  },
+  {
+    "id": "v14",
+    "imagen": "../Productos/014.jpg",
+    "nombre": "Korg 84t",
+    "descripcion": "Teclado Korg Under",
+    "categoria": "teclados",
+    "precio": 1800800,
+    "stock": 1
+  },
+  
+  {
+    "id": "v15",
+    "imagen": "../Productos/015.jpg",
+    "nombre": "Korg KRONOS",
+    "descripcion": "Teaclado Korg Ascension",
+    "categoria": "teclados",
+    "precio": 3610000,
+    "stock": 10
+  },
+
+  {
+    "id": "v16",
+    "imagen": "../Productos/016.jpg",
+    "nombre": "Roland Cynic",
+    "descripcion": "Roland Phantom",
+    "categoria": "teclados",
+    "precio": 2910000,
+    "stock": 5
+  }
+
+]
